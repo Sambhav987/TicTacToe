@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="heading">Tic-Tac-Toe</string>
+    <string name="grid">Our main grid</string>
+    <string name="status">Tap on any of the box to Play</string>
+    <string name="p1">Player 1</string>
+    <string name="p2">Player 2</string>
+    <string name="next">Next</string>
+    <string name="note">Note: Players change after each turn</string>
+</resources>
